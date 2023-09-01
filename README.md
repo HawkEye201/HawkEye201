@@ -8,7 +8,7 @@
 - 📄 [Resume](https://bit.ly/atul_maurya)
 
 
-<h3 align="left">🤝 Let's Connect At-</h3>
+<h3 align="left">🤝 Let's Connect At</h3>
 
 [![Linkedin](https://img.shields.io/badge/-Atul%20Maurya-blue?&style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atulmaurya201/)
 [![Gmail](https://img.shields.io/badge/-atulkumarmaurya201@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:atulkumarmaurya201@gmail.com)
