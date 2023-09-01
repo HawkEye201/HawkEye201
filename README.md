@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul</h1>
-<h3 align="center">A passionate Competitive Programmer and Full Stack Developer from India</h3>
+<h6>A passionate Competitive Programmer and Full Stack Developer pursuing Integrated M.Tech from IIIT Gwalior.</h6>
 
 - 📫 Reach me at **atulkumarmaurya201@gmail.com**
 
