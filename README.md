@@ -9,6 +9,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atulmaurya201/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:atulkumarmaurya201@gmail.com)
 <!-- <p align="left">
