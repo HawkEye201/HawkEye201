@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atul</h1>
 <h4>A passionate Competitive Programmer and Full Stack Developer pursuing Integrated Masters in Information Technology from IIIT Gwalior.</h4>
 
-- 💻 I’m looking to collaborate on Web Dev Projects
+- 💻 I’m looking to collaborate on Backend Projects
 
 - 📫 Reach me at **atulkumarmaurya201@gmail.com**
 
